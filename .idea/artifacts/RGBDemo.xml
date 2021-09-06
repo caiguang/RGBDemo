@@ -1,0 +1,27 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" build-on-make="true" name="RGBDemo">
+    <output-path>$PROJECT_DIR$/out/artifacts/RGBDemo</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="cc.caiguang.demo.Main" />
+        <option name="convertCss2Bin" value="true" />
+        <option name="description" value="website: caiguang.cc" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="icons">
+          <JavaFxApplicationIcons>
+            <option name="windowsIcon" value="$PROJECT_DIR$/resources/image/icon.ico" />
+          </JavaFxApplicationIcons>
+        </option>
+        <option name="nativeBundle" value="all" />
+        <option name="title" value="RGBDemo" />
+        <option name="vendor" value="caiguang" />
+        <option name="version" value="1.0" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="JavaFXApp.jar">
+        <element id="module-output" name="RGBDemo" />
+      </element>
+    </root>
+  </artifact>
+</component>
