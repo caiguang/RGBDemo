@@ -4,5 +4,5 @@
 
 ##### 程序演示
 
-![示例图片](./resources/image/demo.gif)
+![示例图片](https://gitee.com/caiguangcc/resources/raw/master/image/2021-09-08.gif)
 
