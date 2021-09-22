@@ -32,6 +32,9 @@ public class Controller {
     }
 
     public void init() {
+        red.setValue(0);
+        green.setValue(0);
+        blue.setValue(0);
 
         red.valueProperty().addListener(new InvalidationListener() {
             @Override
