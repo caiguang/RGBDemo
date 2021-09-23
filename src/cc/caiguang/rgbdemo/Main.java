@@ -1,4 +1,4 @@
-package cc.caiguang.demo;
+package cc.caiguang.rgbdemo;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
@@ -25,7 +25,7 @@ public class Main extends Application {
 
         //加载css样式
         //scene.getStylesheets().add(getClass().getResource("style1.css").toExternalForm());
-        primaryStage.setTitle("光色演示  --  作者：蔡广");
+        primaryStage.setTitle("光色原理演示  --  作者：蔡广");
         primaryStage.setResizable(false);
         primaryStage.setScene(new Scene(root, 640, 400));
         Controller controller = fxmlLoader.getController();

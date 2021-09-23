@@ -1,4 +1,4 @@
-package cc.caiguang.demo;
+package cc.caiguang.rgbdemo;
 
 import com.jfoenix.controls.JFXSlider;
 import javafx.beans.InvalidationListener;
